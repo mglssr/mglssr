@@ -1,17 +1,18 @@
 
-<h1  align="center">Maia Iglesias</h1>
+<i align="center">“The Cosmos is all that is or was or ever will be. Our feeblest contemplations of the Cosmos stir us -- there is a tingling in the spine, a catch in the voice, a faint sensation, as if a distant memory, of falling from a height. We know we are approaching the greatest of mysteries.”</i>
+
+<i align="right">
+  ― Carl Sagan, Cosmos</i>
 
 <!--
 **mglssr/mglssr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<div align="center">
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmglssr&label=VISITORS&labelColor=%23697689&countColor=%232ccce4)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmglssr)
-
-<div/>
   
 <div align="left">
+  <br></br>
 
+  Welcome to my profile!! I'm a Full-Stack Developer from Uruguay passionate about science, constantly looking for new challenges and learning :D
 - 🔭 I’m currently studying Mechanical Engieneering at UdelaR
 - 🌱 Also I'm learning Machine Learning at Holberton School
 - 📫 You can reach me trought my [Linkedin](https://www.linkedin.com/in/maiaiglesiasrojas/), [Gmail](mailto:iglesiasmaia6@gmail.com) or [Instagram](https://www.instagram.com/mglssr/)
@@ -37,8 +38,14 @@
 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a><a  href="https://spring.io/"  target="_blank"  rel="noreferrer"><img  src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"  alt="spring"  width="40"  height="40"/></a><a  href="https://www.redhat.com/es"  target="_blank"  rel="noreferrer"><img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Red_Hat_logo.svg/640px-Red_Hat_logo.svg.png"  alt="spring"  width="49"  height="40"/></a><a  href="https://kubernetes.io/es/"  target="_blank"  rel="noreferrer"><img  src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg"  alt="spring"  width="40"  height="40"/></a>
 
+<div align="center">
+ 
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmglssr&label=VISITORS&labelColor=%23697689&countColor=%232ccce4)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmglssr)
 
----
-
+<div/>
+<div align="left">
+  
 ### 📊Github Stats:
+  
+  </div>
 <img  src="https://github-readme-stats-mglssr.vercel.app/api?username=mglssr&show_icons=true&count_private=true&theme=merko&hide_border=true,contribs"  alt="mglssr" /> <img  src="https://github-readme-stats-mglssr.vercel.app//api/top-langs/?username=mglssr&layout=compact&langs_count=8&hide=Shaderlab,HLSL&hide_border=true&theme=merko"  alt="mglssr" />
