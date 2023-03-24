@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently studying Mechanical Engieneering at UdelaR
 - 🌱 Also I'm learning Machine Learning at Holberton School
-- 📫 You can reach me trought my [Linkedin](https://www.linkedin.com/in/maiaiglesiasrojas%C3%A1ndez-846b6a230/), [Gmail](mailto:iglesiasmaia6@gmail.com) or [Instagram](https://www.instagram.com/mglssr/)
+- 📫 You can reach me trought my [Linkedin](https://www.linkedin.com/in/maiaiglesiasrojas/), [Gmail](mailto:iglesiasmaia6@gmail.com) or [Instagram](https://www.instagram.com/mglssr/)
 - 🎮2023 Goals: Increase my professional network
 
 
