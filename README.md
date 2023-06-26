@@ -12,7 +12,7 @@
 <div align="left">
   <br></br>
 
-  Welcome to my profile!! I'm a Full-Stack Developer from Uruguay passionate about science, constantly looking for new challenges and learning :D
+  Welcome to my profile!! I'm a Full-Stack Software Engineer from Uruguay passionate about science, constantly looking for new challenges and learning :D
 - 🔭 I’m currently studying Mechanical Engieneering at UdelaR
 - 🌱 Also I'm learning Machine Learning at Holberton School
 - 📫 You can reach me trought my [Linkedin](https://www.linkedin.com/in/maiaiglesiasrojas/), [Gmail](mailto:iglesiasmaia6@gmail.com) or [Instagram](https://www.instagram.com/mglssr/)
